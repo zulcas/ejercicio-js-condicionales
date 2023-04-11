@@ -2,7 +2,7 @@
 
 ## Instrucciones 
 
-Ejecuta cada fichero con el comando **node ex1.js**
+Ejecuta cada fichero con el comando **node ex1.js**, excepto el ejercicio-live-server.html
 
 ## Ejercicio Live Server 
 
