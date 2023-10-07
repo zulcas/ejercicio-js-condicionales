@@ -5,9 +5,7 @@
 let numero = 3;
 
 if (numero < 2) {
-    console.log("Bruuuu!")
-}
-
-else {
-    console.log("Cuack!")
+  console.log("Bruuuu!");
+} else {
+  console.log("Cuack!");
 }

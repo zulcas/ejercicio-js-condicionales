@@ -6,9 +6,9 @@
 let numero = -1;
 
 if (numero == 0) {
-    console.log("BUP!BUP!");
+  console.log("BUP!BUP!");
 }
 
 if (numero <= -1) {
-    console.log("CROAK!!");
+  console.log("CROAK!!");
 }

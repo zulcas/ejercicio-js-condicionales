@@ -9,10 +9,9 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 */
 
 if (4 > 3 && 6 > 5) {
-    console.log("Esta condición se cumple");
+  console.log("Esta condición se cumple");
 }
 
 if (4 > 3 && -1 > 0) {
-    console.log("Esta condición también se cumple?");
-
+  console.log("Esta condición también se cumple?");
 }
