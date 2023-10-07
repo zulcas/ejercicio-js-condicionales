@@ -3,6 +3,8 @@
  *
  * 1. Si la variable número vale 5 o más, mostramos por el terminal "El número es mayor de 5"
  * 2. En caso contrario, mostramos por el temrinal "El número es menor de 5"
+ *
+ * Vídeo: https://oscarm.tinytake.com/msc/ODc3NTg0NV8yMjE5Mjc5NQ
  */
 
 let numero = 5;
