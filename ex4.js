@@ -5,7 +5,7 @@
 
 let numero = -1;
 
-if (numero == 0) {
+if (numero <= 0) {
   console.log("BUP!BUP!");
 }
 
