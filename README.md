@@ -1,8 +1,8 @@
 # JS Condicionales
 
-## Instrucciones 
+## Instrucciones. Ejercicios ex
 
-Ejecuta cada fichero con el comando **node ex1.js**, excepto el ejercicio-live-server.html
+Ejecuta cada fichero con el comando **node ex1.js**
 
 ## Ejercicio Live Server 
 
