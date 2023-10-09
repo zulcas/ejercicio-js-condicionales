@@ -1,6 +1,6 @@
 /*
 
-Operador: && https://www.w3schools.com/js/tryit.asp?filename=tryjs_comparison_and
+Lee la información sobre el operador: && https://www.w3schools.com/js/tryit.asp?filename=tryjs_comparison_and
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_l%C3%B3gicos
 
