@@ -9,3 +9,5 @@ if (numero < 2) {
 } else {
   console.log("Cuack!");
 }
+
+//Cuack!

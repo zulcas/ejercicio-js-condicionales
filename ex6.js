@@ -15,3 +15,5 @@ if (4 > 3 && 6 > 5) {
 if (4 > 3 && -1 > 0) {
   console.log("Esta condición también se cumple?");
 }
+
+//Se ve primer if

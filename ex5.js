@@ -7,6 +7,13 @@
  * Vídeo: https://oscarm.tinytake.com/msc/ODc3NTg0NV8yMjE5Mjc5NQ
  */
 
-let numero = 5;
+let numero = 4;
+
+if (numero >= 5){
+    console.log("El numero es mayor a 5");
+}
+else{
+    console.log("El numero es menor de 5");
+}
 
 // AQUÍ DEBAJO TU CÓDIGO. Necesitas codificar una estructura if...else. Mira los ejemplos anteriores. Cambia el valor de la variable "numero" para comprobar que has implementado bien la solución
